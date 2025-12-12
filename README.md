@@ -1,6 +1,4 @@
 ## I’m @firatdem
-- 👀 I’m interested in anything related to data engineering!
-- 🌱 I’m currently learning more on data engineering and how to incorporate AI into work flows!
 - 💞️ I’m looking to collaborate on ANYTHING! :)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to make music in my free time!
